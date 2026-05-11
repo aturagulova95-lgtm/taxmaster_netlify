@@ -1,0 +1,7 @@
+{
+  "name": "taxmasterkz-site",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "netlify dev"
+  }
+}
